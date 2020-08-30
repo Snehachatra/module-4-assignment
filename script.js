@@ -24,4 +24,3 @@ Good Bye Jim
         }
     }
 })();
-© 2020 GitHub, Inc.
